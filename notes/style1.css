@@ -1,0 +1,11 @@
+#go {
+    color:chocolate;
+}
+.newclass{
+    front-weight: bold;
+    front-family: "Arial", sans-serif;
+
+}
+p, a{
+    text-decoration: none;
+}
